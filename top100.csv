@@ -1,0 +1,101 @@
+,name,year,genre,imdb_rating,metascore,runtime,number_votes,gross_earnings
+0,Jai Bhim,2021,"Crime, Drama            ",9.3,,164,169828,
+1,The Shawshank Redemption,1994,Drama            ,9.3,80,142,2530949,28340000
+2,The Godfather,1972,"Crime, Drama            ",9.2,100,175,1742438,134970000
+3,Soorarai Pottru,2020,Drama            ,9.1,,153,106495,
+4,The Dark Knight,2008,"Action, Crime, Drama            ",9.0,84,152,2481427,534860000
+5,The Godfather: Part II,1974,"Crime, Drama            ",9.0,90,202,1208872,57300000
+6,12 Angry Men,1957,"Crime, Drama            ",9.0,96,96,747828,4360000
+7,The Lord of the Rings: The Return of the King,2003,"Action, Adventure, Drama            ",8.9,94,201,1746563,377850000
+8,Pulp Fiction,1994,"Crime, Drama            ",8.9,94,154,1949526,107930000
+9,Schindler's List,1993,"Biography, Drama, History            ",8.9,94,195,1293128,96900000
+10,Inception,2010,"Action, Adventure, Sci-Fi            ",8.8,74,148,2224159,292580000
+11,Fight Club,1999,Drama            ,8.8,66,139,1990689,37030000
+12,The Lord of the Rings: The Fellowship of the Ring,2001,"Action, Adventure, Drama            ",8.8,92,178,1767907,315540000
+13,Forrest Gump,1994,"Drama, Romance            ",8.8,82,142,1953407,330250000
+14,"The Good, the Bad and the Ugly",1966,"Adventure, Western            ",8.8,90,178,731434,6100000
+15,Spider-Man: No Way Home,2021,"Action, Adventure, Fantasy            ",8.7,71,148,408294,
+16,Dara of Jasenovac,2020,"Drama, War            ",8.7,,130,80227,
+17,Shershaah,2021,"Action, Biography, Drama            ",8.7,,135,112246,
+18,Sardar Udham,2021,"Biography, Crime, Drama            ",8.7,,164,35047,
+19,The Lord of the Rings: The Two Towers,2002,"Action, Adventure, Drama            ",8.7,87,179,1578043,342550000
+20,The Matrix,1999,"Action, Sci-Fi            ",8.7,73,136,1826135,171480000
+21,Goodfellas,1990,"Biography, Crime, Drama            ",8.7,90,146,1094779,46840000
+22,Star Wars: Episode V - The Empire Strikes Back,1980,"Action, Adventure, Fantasy            ",8.7,82,124,1228820,290480000
+23,One Flew Over the Cuckoo's Nest,1975,Drama            ,8.7,84,133,969560,112000000
+24,Parasite,2019,"Comedy, Drama, Thriller            ",8.6,96,132,708752,53370000
+25,Drishyam 2,2021,"Crime, Drama, Thriller            ",8.6,,152,33420,
+26,Interstellar,2014,"Adventure, Drama, Sci-Fi            ",8.6,74,169,1676720,188020000
+27,City of God,2002,"Crime, Drama            ",8.6,79,130,732315,7560000
+28,Spirited Away,2001,"Animation, Adventure, Family            ",8.6,96,125,713851,10060000
+29,Saving Private Ryan,1998,"Drama, War            ",8.6,91,169,1321179,216540000
+30,The Green Mile,1999,"Crime, Drama, Fantasy            ",8.6,61,189,1231365,136800000
+31,Life Is Beautiful,1997,"Comedy, Drama, Romance            ",8.6,59,116,665379,57600000
+32,Se7en,1995,"Crime, Drama, Mystery            ",8.6,65,127,1552980,100130000
+33,The Silence of the Lambs,1991,"Crime, Drama, Horror            ",8.6,85,118,1360747,130740000
+34,Star Wars: Episode IV - A New Hope,1977,"Action, Adventure, Fantasy            ",8.6,90,121,1300305,322740000
+35,Hara-Kiri,1962,"Action, Drama, Mystery            ",8.6,85,133,51682,
+36,Seven Samurai,1954,"Action, Drama            ",8.6,98,207,334470,270000
+37,It's a Wonderful Life,1946,"Comedy, Drama, Family            ",8.6,89,130,438291,
+38,96,2018,"Drama, Romance            ",8.5,,158,27308,
+39,Whiplash,2014,"Drama, Music            ",8.5,88,106,786360,13090000
+40,The Intouchables,2011,"Biography, Comedy, Drama            ",8.5,57,112,815557,13180000
+41,The Prestige,2006,"Drama, Mystery, Thriller            ",8.5,66,130,1271214,53090000
+42,The Departed,2006,"Crime, Drama, Thriller            ",8.5,85,151,1264905,132380000
+43,The Pianist,2002,"Biography, Drama, Music            ",8.5,85,150,788936,32570000
+44,Gladiator,2000,"Action, Adventure, Drama            ",8.5,67,155,1428936,187710000
+45,American History X,1998,Drama            ,8.5,62,119,1082759,6720000
+46,The Usual Suspects,1995,"Crime, Drama, Mystery            ",8.5,77,106,1046062,23340000
+47,Léon: The Professional,1994,"Action, Crime, Drama            ",8.5,64,110,1105996,19500000
+48,The Lion King,1994,"Animation, Adventure, Drama            ",8.5,88,88,1004804,422780000
+49,Terminator 2: Judgment Day,1991,"Action, Sci-Fi            ",8.5,75,137,1052124,204840000
+50,Cinema Paradiso,1988,"Drama, Romance            ",8.5,80,155,250389,11990000
+51,Grave of the Fireflies,1988,"Animation, Drama, War            ",8.5,94,89,259861,
+52,Back to the Future,1985,"Adventure, Comedy, Sci-Fi            ",8.5,87,116,1138537,210610000
+53,Once Upon a Time in the West,1968,Western            ,8.5,80,165,319322,5320000
+54,Psycho,1960,"Horror, Mystery, Thriller            ",8.5,97,109,643198,32000000
+55,Rear Window,1954,"Mystery, Thriller            ",8.5,100,112,473791,36760000
+56,Casablanca,1942,"Drama, Romance, War            ",8.5,100,102,551763,1020000
+57,Modern Times,1936,"Comedy, Drama, Family            ",8.5,96,87,233186,160000
+58,City Lights,1931,"Comedy, Drama, Romance            ",8.5,99,87,179020,20000
+59,Hamilton,2020,"Biography, Drama, History            ",8.4,90,160,81266,
+60,Capernaum,2018,Drama            ,8.4,75,126,80647,1660000
+61,Joker,2019,"Crime, Drama, Thriller            ",8.4,59,122,1131474,335450000
+62,Raatchasan,2018,"Crime, Drama, Mystery            ",8.4,,170,37531,
+63,Ayla: The Daughter of War,2017,"Biography, Drama, History            ",8.4,,125,37913,
+64,Your Name.,2016,"Animation, Drama, Fantasy            ",8.4,79,106,237943,5020000
+65,Dangal,2016,"Action, Biography, Drama            ",8.4,,161,177026,12390000
+66,Spider-Man: Into the Spider-Verse,2018,"Animation, Action, Adventure            ",8.4,87,117,463837,190240000
+67,Avengers: Endgame,2019,"Action, Adventure, Drama            ",8.4,78,181,1000037,858370000
+68,Avengers: Infinity War,2018,"Action, Adventure, Sci-Fi            ",8.4,68,149,971563,678820000
+69,Coco,2017,"Animation, Adventure, Comedy            ",8.4,81,105,456244,209730000
+70,Django Unchained,2012,"Drama, Western            ",8.4,81,165,1463305,162810000
+71,The Dark Knight Rises,2012,"Action, Crime, Drama            ",8.4,78,164,1610571,448140000
+72,3 Idiots,2009,"Comedy, Drama            ",8.4,67,170,376681,6530000
+73,Like Stars on Earth,2007,"Drama, Family            ",8.4,,165,184688,1220000
+74,WALL·E,2008,"Animation, Adventure, Family            ",8.4,95,98,1064013,223810000
+75,The Lives of Others,2006,"Drama, Mystery, Thriller            ",8.4,89,137,378446,11290000
+76,Oldboy,2003,"Action, Drama, Mystery            ",8.4,77,120,552425,710000
+77,Memento,2000,"Mystery, Thriller            ",8.4,80,113,1189387,25540000
+78,Princess Mononoke,1997,"Animation, Action, Adventure            ",8.4,76,134,373855,2380000
+79,Indiana Jones and the Raiders of the Lost Ark,1981,"Action, Adventure            ",8.4,85,115,931434,248160000
+80,The Shining,1980,"Drama, Horror            ",8.4,66,146,966627,44020000
+81,Apocalypse Now,1979,"Drama, Mystery, War            ",8.4,94,147,641294,83470000
+82,Alien,1979,"Horror, Sci-Fi            ",8.4,89,117,839952,78900000
+83,High and Low,1963,"Crime, Drama, Mystery            ",8.4,,143,41314,
+84,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,"Comedy, War            ",8.4,97,95,474139,280000
+85,Witness for the Prosecution,1957,"Crime, Drama, Mystery            ",8.4,,116,119660,8180000
+86,Paths of Glory,1957,"Drama, War            ",8.4,90,88,190389,
+87,Pather Panchali,1955,Drama            ,8.4,,125,30198,540000
+88,Sunset Blvd.,1950,"Drama, Film-Noir            ",8.4,,110,214608,
+89,The Great Dictator,1940,"Comedy, Drama, War            ",8.4,,125,216890,290000
+90,Chhichhore,2019,"Comedy, Drama, Romance            ",8.3,,143,47162,
+91,1917,2019,"Action, Drama, War            ",8.3,78,119,525627,159230000
+92,Uri: The Surgical Strike,2019,"Action, Drama, War            ",8.3,,138,54864,
+93,Tumbbad,2018,"Drama, Fantasy, Horror            ",8.3,,104,39455,
+94,K.G.F: Chapter 1,2018,"Action, Crime, Drama            ",8.3,,156,53268,
+95,Vikram Vedha,2017,"Action, Crime, Drama            ",8.3,,147,35594,
+96,Drishyam,2013,"Crime, Drama, Thriller            ",8.3,,160,39234,
+97,The Hunt,2012,Drama            ,8.3,77,115,312282,690000
+98,A Separation,2011,Drama            ,8.3,95,123,235960,7100000
+99,Incendies,2010,"Drama, Mystery, War            ",8.3,80,131,167940,6860000
